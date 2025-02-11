@@ -72,3 +72,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+yarn.lock
+
+# Firebase Configs and Other Configs
+ios/GoogleService-Info.plist
+android/app/google-services.json
+src/configs/config.js
